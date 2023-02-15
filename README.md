@@ -6,3 +6,8 @@
 
 
 It can translate text.
+
+My Colabs: https://colab.research.google.com/drive/1q7JW_AloO2sOv0PjwYEGSHaL3ggeZuOw?usp=sharing
+
+https://colab.research.google.com/drive/1byDo9HNkN553aEGfVOZJyVIYe7SufjwD?usp=sharing
+
